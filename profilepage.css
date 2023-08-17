@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color:black;
+    font-weight: 400;
+    
+}
+body{
+    background-image: url("./images/Screenshot_20230815_133557_Chrome.png");
+    background-position: center;
+    background-size: 700px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+.navbar{
+    background-color:rgb(210, 203, 203);
+}
+#indexblogs{
+    background-color:rgba(234, 232, 232, 0.2);
+    color:black;
+    font-weight: 900;
+    text-decoration:none;
+}
+#postbtn{
+    border-radius: 25px;
+}
+#transparent{
+    background-color:rgba(251, 243, 243, 0.5);
+}
+#a{
+    text-decoration: none;
+}
+#profile{
+    width: auto;
+    background-color:rgba(110, 109, 109,0.1);
+   
+
+}
+#bottom{
+    mix-blend-mode: multiply;
+    border-radius: 50px;
+    
+}

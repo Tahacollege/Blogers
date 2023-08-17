@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url("./images/Screenshot_20230815_133557_Chrome.png");
+    background-position: center;
+    background-repeat: no-repeat;
+   
+}
+.navbar{
+    background-color:rgb(91, 91, 91,0.2);
+}
+#div{
+    background-color:rgba(229, 222, 222, 0.5);
+}
+#textarea{
+    background-color:rgba(255, 243, 243, 0.5);
+}
+#postbtn{
+    border-radius: 25px;
+}
+.topics{
+    font-weight: 900;
+    color:white;
+    font-size: 29px;
+}
+#btn{
+    width: 500px;
+    border-radius: 50px;
+}

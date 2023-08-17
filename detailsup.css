@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url("./images/details.png");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+.navbar{
+    background-color:rgb(91, 91, 91,0.3)
+}
+#indexblogs{
+    background-color:rgba(91, 91, 91,0.2);
+    color:black;
+    font-weight: 900;
+    text-decoration:none;
+}
+#trans{
+    background-color:rgba(247, 246, 246, 0.6);
+}
+#bottom{
+    mix-blend-mode: multiply;
+    border-radius: 50px;
+}
+#postbtn{
+    border-radius: 25px;
+}
+#a{
+    text-decoration: none;
+}
+#comment{
+    background-color:rgba(247, 246, 246, 0.6);
+    
+}
